@@ -8,6 +8,10 @@ I almost get how the whole java layout manager ish works - but it's still a long
 The projects aims to be a little 'framework' for setting up a gui.  
 Use the GuiHelper for placing your content into a gui is to adjust the configuration of MainFrame, MenuBar and Cards.  
 
+Demo-Menu             |  Demo-About
+:-------------------------:|:-------------------------:
+![](https://github.com/fpetruschke/simpleGuiHelper/blob/master/img/exampleMain.png)  |  ![](https://github.com/fpetruschke/simpleGuiHelper/blob/master/img/exampleAbout.png)
+
 
 ## Requirements
 - You need to have Java 1.7 installed.  
